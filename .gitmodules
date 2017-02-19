@@ -1,0 +1,3 @@
+[submodule "src/github.com/macterra/alter-ego"]
+	path = src/github.com/macterra/alter-ego
+	url = https://github.com/macterra/alter-ego.git
